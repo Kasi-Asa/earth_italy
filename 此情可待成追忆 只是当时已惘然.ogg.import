@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ddh653nvauy3d"
+path="res://.godot/imported/此情可待成追忆 只是当时已惘然.ogg-3a962b49407ee6ac26991ace584cf435.oggvorbisstr"
+
+[deps]
+
+source_file="res://此情可待成追忆 只是当时已惘然.ogg"
+dest_files=["res://.godot/imported/此情可待成追忆 只是当时已惘然.ogg-3a962b49407ee6ac26991ace584cf435.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
